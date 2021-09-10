@@ -4,7 +4,7 @@
 
 > Visit Rwanda is a project that provide enough info or all you want to know about VISIT Rwanda program, this project is builded in html css and javascript, some contents of the page generate dynamical when page reload.
 
-![screenshot](./app_screenshot.png)
+![screenshot](./app_screenshot.PNG)
 
 Additional description about the project and its features.
 
@@ -37,6 +37,7 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - Our God in heaven
+- thanks to Cindy Shin the author of orinal design
 - Microverse
 
 ## 📝 License

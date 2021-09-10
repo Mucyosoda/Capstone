@@ -227,12 +227,14 @@ displayCard5.appendChild(card5);
 const less = document.querySelector('.less_btn');
 const more = document.querySelector('.more_btn');
 const contentItem = document.querySelectorAll('.itemCard');
+const foot = document.querySelector('.foot');
 more.addEventListener('click', () => {
   contentItem[0].classList.remove('itemCard');
   contentItem[1].classList.remove('itemCard');
   contentItem[2].classList.remove('itemCard');
   less.classList.remove('itemCard');
   more.classList.add('itemCard');
+  foot.classList.add('footerx');
 });
 
 less.addEventListener('click', () => {
@@ -241,4 +243,5 @@ less.addEventListener('click', () => {
   contentItem[2].classList.add('itemCard');
   less.classList.add('itemCard');
   more.classList.remove('itemCard');
+  foot.classList.remove('footerx');
 });
