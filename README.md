@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Capstone Provect/visit RWANDA
 
-> One paragraph statement about the project.
+> Visit Rwanda is a project that provide enough info or all you want to know about VISIT Rwanda program, this project is builded in html css and javascript, some contents of the page generate dynamical when page reload.
 
 ![screenshot](./app_screenshot.png)
 
@@ -10,9 +10,9 @@ Additional description about the project and its features.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Javascript
+- HTML
+- CSS
 
 ## Live Demo
 

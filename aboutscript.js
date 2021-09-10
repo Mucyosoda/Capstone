@@ -1,14 +1,6 @@
 const menuBtn = document.querySelector('.menu');
 const navWrap = document.querySelector('.nav-bar');
 const closeIcon = document.getElementById('close-icon');
-const seeProjectBtn = document.querySelectorAll('.see-btn');
-const displayMsg = document.querySelector('.pop-msg-1');
-const overlayBackground = document.querySelector('.overlay');
-const closepop = document.querySelector('.closeX');
-const closeFunction = function () {
-  displayMsg.classList.add('d-none');
-  overlayBackground.classList.add('d-none');
-};
 
 menuBtn.addEventListener('click', () => {
   menuBtn.classList.add('d-none');
