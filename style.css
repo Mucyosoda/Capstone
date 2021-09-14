@@ -824,9 +824,7 @@ footer .footer_text {
   }
 }
 
-
-@media only screen and (min-device-width: 1366px) and (max-device-height: 1024px) and (-webkit-min-device-pixel-ratio: 2)  and (orientation: landscape)  {
-
+@media only screen and (min-device-width: 1366px) and (max-device-height: 1024px) and (-webkit-min-device-pixel-ratio: 2)  and (orientation: landscape) {
   .cards_list {
     display: flex;
     flex-direction: row;
@@ -864,10 +862,9 @@ footer .footer_text {
     text-align: center;
     width: 100%;
   }
-
 }
 
-@media only screen and (min-device-width: 1024px) and (max-device-height: 1366px) and (-webkit-min-device-pixel-ratio: 2)  and (orientation: portrait)  {
+@media only screen and (min-device-width: 1024px) and (max-device-height: 1366px) and (-webkit-min-device-pixel-ratio: 2)  and (orientation: portrait) {
   .cards_list {
     display: flex;
     flex-direction: column;
@@ -890,7 +887,7 @@ footer .footer_text {
     height: 15vh;
     padding-top: 5vh;
     width: 100%;
-  } 
+  }
 
   .cards .text {
     font-size: 24px;
@@ -912,5 +909,4 @@ footer .footer_text {
     display: inline;
     width: 100%;
   }
-
 }
