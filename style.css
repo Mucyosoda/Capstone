@@ -580,14 +580,14 @@ footer .footer_text {
     background-position: center;
     max-width: 100%;
     margin: auto;
-    height: 130vh;
+    height: 110vh;
     color: rgb(145, 135, 135);
     font-weight: 900;
     border-radius: 10px;
   }
 
   .banner .background {
-    padding-top: 8rem;
+    padding-top: 6rem;
     padding-left: 8rem;
     background-color: #272a31f1;
     width: 100%;
@@ -602,10 +602,11 @@ footer .footer_text {
   }
 
   .banner .background h1 {
-    font-family: "Times New Roman", Times, serif;
-    font-size: 2.2vw;
+    font-family: "Lato", sans-serif;
+    font-weight: 900;
+    font-size: 2rem;
     line-height: 30px;
-    padding: 2px;
+    padding: 5px;
     background-color: #ec5342f5;
     background-position: bottom center;
     background-size: contain;
@@ -619,7 +620,9 @@ footer .footer_text {
   }
 
   .banner .background h2 {
-    font-size: 5vw;
+    font-size: 4rem;
+    font-family: "Lato", sans-serif;
+    font-weight: 900;
     background-image: url(images/imagesz.jpg);
   }
 
@@ -644,7 +647,7 @@ footer .footer_text {
     margin-bottom: 20px;
     width: 50%;
     border: 1px solid rgba(92, 86, 86, 0.856);
-    height: 15vh;
+    height: 18vh;
     padding: 10px;
     line-height: 24px;
     color: #d3d3d3e3;
